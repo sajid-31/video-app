@@ -1,0 +1,19 @@
+body {
+    background-image: url("bg.png") ;
+    background-size: cover;
+}
+
+#lobby-container{
+    background-color: darkorange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    opacity: 0.8;
+    padding-bottom: 3rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+.join-form{
+    size: 200%;
+}
